@@ -1,2 +1,2 @@
 # My Project
-よく利用するrsyslogシェルスクリプト
+Azure内でデプロイしたLinuxで頻繁に利用するrsyslogシェルスクリプト
